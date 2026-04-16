@@ -58,7 +58,7 @@ String languageFromLocale(Locale locale) {
     case "mr":
       return "मराठी";
     case "nl":
-      return "Nederlands"
+      return "Nederlands";
     case "he":
       return "עברית";
     case "hu":
